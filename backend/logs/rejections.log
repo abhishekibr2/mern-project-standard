@@ -1,0 +1,20 @@
+2025-08-28 23:09:51:951 [31merror[39m: [31munhandledRejection: Illegal arguments: undefined, number[39m
+[31mError: Illegal arguments: undefined, number[39m
+[31m    at _async (A:\Projects\office project\mern-js-documentation\backend\node_modules\bcryptjs\dist\bcrypt.js:214:46)[39m
+[31m    at A:\Projects\office project\mern-js-documentation\backend\node_modules\bcryptjs\dist\bcrypt.js:223:17[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at bcrypt.hash (A:\Projects\office project\mern-js-documentation\backend\node_modules\bcryptjs\dist\bcrypt.js:222:20)[39m
+[31m    at model.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\src\models\User.js:171:32)[39m
+[31m    at callMiddlewareFunction (A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:628:27)[39m
+[31m    at model.next (A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:93:7)[39m
+[31m    at _next (A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:146:10)[39m
+[31m    at A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:653:30[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)[39m
+2025-08-28 23:20:50:2050 [31merror[39m: [31munhandledRejection: Password is required[39m
+[31mError: Password is required[39m
+[31m    at model.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\src\models\User.js:176:17)[39m
+[31m    at callMiddlewareFunction (A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:628:27)[39m
+[31m    at model.next (A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:93:7)[39m
+[31m    at _next (A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:146:10)[39m
+[31m    at A:\Projects\office project\mern-js-documentation\backend\node_modules\kareem\index.js:653:30[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)[39m

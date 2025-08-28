@@ -1,0 +1,638 @@
+2025-08-28 21:43:53:4353 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:45:51:4551 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:46:05:465 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:46:37:4637 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:47:27:4727 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:03:483 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:04:484 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:07:487 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:11:4811 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:27:4827 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:29:4829 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:31:4831 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:48:38:4838 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:49:12:4912 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:50:04:504 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:52:46:5246 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:53:00:530 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:53:10:5310 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 21:59:31:5931 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:02:31:231 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:31:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:02:46:246 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:02:55:255 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:03:51:351 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:06:31:631 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:07:45:745 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:07:52:752 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:11:28:1128 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:12:41:1241 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:12:44:1244 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:04:154 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:19:1519 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:25:1525 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:37:1537 [31merror[39m: [31muncaughtException: hello is not defined[39m
+[31mReferenceError: hello is not defined[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:26:13)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:38:1538 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:46:1546 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:50:1550 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:15:59:1559 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:16:05:165 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:16:09:169 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:16:18:1618 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:16:44:1644 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:17:07:177 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:19:17:1917 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:19:26:1926 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:19:31:1931 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:19:37:1937 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:29:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:21:18:2118 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:21:25:2125 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:24:00:240 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:26:56:2656 [31merror[39m: [31muncaughtException: Unexpected token 'function'[39m
+[31mA:\Projects\office project\mern-js-documentation\backend\src\config\database.js:13[39m
+[31mconst function connectDB = async () => {[39m
+[31m      ^^^^^^^^[39m
+
+[31mSyntaxError: Unexpected token 'function'[39m
+[31m    at wrapSafe (node:internal/modules/cjs/loader:1662:18)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1704:20)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1487:12)[39m
+[31m    at require (node:internal/modules/helpers:135:16)[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:18:19)[39m
+2025-08-28 22:28:23:2823 [31merror[39m: [31muncaughtException: connectDB is not a function[39m
+[31mTypeError: connectDB is not a function[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:30:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:28:31:2831 [31merror[39m: [31muncaughtException: app.use() requires a middleware function[39m
+[31mTypeError: app.use() requires a middleware function[39m
+[31m    at Function.use (A:\Projects\office project\mern-js-documentation\backend\node_modules\express\lib\application.js:217:11)[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:105:5)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:29:01:291 [31merror[39m: [31muncaughtException: app.use() requires a middleware function[39m
+[31mTypeError: app.use() requires a middleware function[39m
+[31m    at Function.use (A:\Projects\office project\mern-js-documentation\backend\node_modules\express\lib\application.js:217:11)[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:103:5)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:29:04:294 [31merror[39m: [31muncaughtException: app.use() requires a middleware function[39m
+[31mTypeError: app.use() requires a middleware function[39m
+[31m    at Function.use (A:\Projects\office project\mern-js-documentation\backend\node_modules\express\lib\application.js:217:11)[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:103:5)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:31:14:3114 [31merror[39m: [31muncaughtException: app.use() requires a middleware function[39m
+[31mTypeError: app.use() requires a middleware function[39m
+[31m    at Function.use (A:\Projects\office project\mern-js-documentation\backend\node_modules\express\lib\application.js:217:11)[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:103:5)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 22:51:20:5120 [31merror[39m: [31muncaughtException: app.use() requires a middleware function[39m
+[31mTypeError: app.use() requires a middleware function[39m
+[31m    at Function.use (A:\Projects\office project\mern-js-documentation\backend\node_modules\express\lib\application.js:217:11)[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:103:5)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
+2025-08-28 23:04:05:45 [31merror[39m: [31muncaughtException: app.use() requires a middleware function[39m
+[31mTypeError: app.use() requires a middleware function[39m
+[31m    at Function.use (A:\Projects\office project\mern-js-documentation\backend\node_modules\express\lib\application.js:217:11)[39m
+[31m    at Object.<anonymous> (A:\Projects\office project\mern-js-documentation\backend\server.js:103:5)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1730:14)[39m
+[31m    at Object..js (node:internal/modules/cjs/loader:1895:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1465:32)[39m
+[31m    at Function._load (node:internal/modules/cjs/loader:1282:12)[39m
+[31m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[31m    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)[39m
+[31m    at node:internal/main/run_main_module:36:49[39m
